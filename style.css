@@ -116,7 +116,7 @@ img {
     }
 
     .navbar-collapse {
-        display: none;
+        display: table;
         background: #000000;
         position: absolute;
         top: 100%;
