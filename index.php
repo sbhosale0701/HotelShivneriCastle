@@ -7,27 +7,27 @@
     <title>Shivneri Castle</title>
     <link rel = "icon" href = "favicon.png" type = "image/png" sizes = "16x16">
     <!-- custom css -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- google fonts -->
-    <link rel = "stylesheet" href = "css/fonts.css">
+    <link rel = "stylesheet" href = "fonts.css">
     <!-- font awesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     <!-- normalize css -->
-    <link rel = "stylesheet" href = "css/normalize.css">
+    <link rel = "stylesheet" href = "normalize.css">
     <!-- magnific popup -->
-    <link rel = "stylesheet" href = "css/magnific-popup.css">
+    <link rel = "stylesheet" href = "magnific-popup.css">
     <!-- slick css -->
-    <link rel = "stylesheet" href = "css/slick.css">
-    <link rel = "stylesheet" href = "css/slick-theme.css">
+    <link rel = "stylesheet" href = "slick.css">
+    <link rel = "stylesheet" href = "slick-theme.css">
     <!-- animate on scroll -->
-    <link rel = "stylesheet" href = "css/aos.css">
+    <link rel = "stylesheet" href = "aos.css">
   </head>
   <body>
 
     <!-- navbar -->
     <nav class="navbar">
     <div class="nav-brand-toggler">
-        <a href="index.html" class="navbar-brand">
+        <a href="index.php" class="navbar-brand">
             <img src="logo2.png" width="480" height="120" alt="Logo"></img>
         </a>
         <button type="button" class="navbar-toggler" id="navbar-toggler">
@@ -370,15 +370,15 @@ With the aim of pampering its guests to a thrilling experience, the hotel featur
 
 
     <!-- jQuery -->
-    <script src = "js/jquery-3.5.1.js"></script>
+    <script src = "jquery-3.5.1.js"></script>
     <!-- magnific popup -->
-    <script src = "js/jquery.magnific-popup.min.js"></script>
+    <script src = "jquery.magnific-popup.min.js"></script>
     <!-- slick js -->
-    <script src = "js/slick.min.js"></script>
+    <script src = "slick.min.js"></script>
     <!-- custom js -->
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
     <!-- animate on scroll -->
-    <script src = "js/aos.js"></script>
+    <script src = "aos.js"></script>
   </body>
 </html>
 
